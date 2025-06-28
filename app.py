@@ -11,5 +11,5 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.page_link("pages/1_📄_PDF_to_AI_Chatbot.py", label="📄 PDF to AI Chat-bot")
-st.page_link("pages/2_💬_Chat_with_Me.py", label="💬 Chat with Me")
+st.page_link("pages/1_PDF_to_AI_Chatbot.py", label=" PDF to AI Chat-bot")
+st.page_link("pages/2_Chat_with_Me.py", label=" Chat with Me")
