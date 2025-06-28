@@ -1,1 +1,1 @@
-# pdf-to-chatgpt-bot
+# ai-chat-bot
